@@ -71,6 +71,3 @@ Face off against increasingly difficult waves of bandits. Each wave brings more 
 
 Your best wave is automatically saved to `Highestscore.txt` and loaded each time you start the game.
 
-## 📝 License
-
-This project is open source and available for personal and educational use.
