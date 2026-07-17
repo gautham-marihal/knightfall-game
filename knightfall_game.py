@@ -21,7 +21,6 @@ pannel_img = pygame.image.load(r"img/Icons/panel.png").convert_alpha()
 potion_img = pygame.image.load(r"img/Icons/potion1.png").convert_alpha()
 potion_img = pygame.transform.scale(potion_img, (40, 40))
 defeat_img = pygame.image.load(r"img/Icons/defeat.png").convert_alpha()
-victory_img = pygame.image.load(r"img/Icons/victory.png").convert_alpha()
 
 pygame.mixer.init()
 
